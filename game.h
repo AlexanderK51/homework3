@@ -1,0 +1,2 @@
+int randomx();
+int score();
